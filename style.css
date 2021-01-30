@@ -1,0 +1,124 @@
+body {
+    
+    font-family: "Bebas Neue", cursive;
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    color: #363958;
+    font-family: Bebas Neue;
+    font-size: 70px;
+    font-weight: 400;
+}
+
+p{
+    color: black;
+    font-size: 16px;
+}
+.orange-highlighter {
+    color: #ff8367;}
+
+.first-part {
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+
+.first-part img {
+    width: 80%;
+    margin-top: 2%;
+    padding-left: 5%;}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, #FF8063);
+    padding: 12px 30px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+}
+h2 {
+    font-family: Bebas Neue;
+    font-size: 48px;
+    color: #363958;
+}
+.title-part{
+    color: #f46060;
+    text-align: center;
+
+}
+
+.about-u {
+    background-image: url("");
+}
+
+.work-part {
+    background-color: #F8F9FC;
+    width: 100%;
+}
+.work-part h2{
+    text-align: center;
+}
+section {
+    min-height: 600px;
+}
+
+.third-part {
+    float: left;
+    width: 30%;
+    padding: 2px;
+    margin: 10px 10px 10px 20px;
+    border-radius: 10px;
+    height: 320px;
+    background-color: white;
+}
+
+.third-part img {
+    border-radius: 5px 5px 0 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60%;
+    width: 60%;
+}
+
+.inquiry-part {
+    margin: 20px;
+    padding: 100px;
+    background-image: url("images/Group_33094_1.png");
+    background-size: 50% 60%;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 40px;
+    text-align: center left;
+    color: white;
+}
+.inquiry-part h3{
+    text-align: center;
+    color: white;
+    font:  Bebas Neue;
+}
+
+h4 {
+    color: #696871;
+}
+
+h3 {
+    font-size: 26px;
+    color: #363958;
+}
+
+p img {
+    width: 40px; 
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+ 
